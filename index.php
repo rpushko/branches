@@ -1,2 +1,2 @@
 <?php
-site will be here
+echo 'site logic';
