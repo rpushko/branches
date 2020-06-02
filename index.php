@@ -1,2 +1,3 @@
-<?php
+
 site will be here
+some text
